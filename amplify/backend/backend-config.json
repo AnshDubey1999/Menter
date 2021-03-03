@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "menterc9001f38": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

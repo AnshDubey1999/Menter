@@ -1,0 +1,20 @@
+{
+  "native": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-menter-native-205006-authRole",
+      "UnauthRoleArn": "arn:aws:iam::905309214447:role/amplify-menter-native-205006-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::905309214447:role/amplify-menter-native-205006-authRole",
+      "Region": "ca-central-1",
+      "DeploymentBucketName": "amplify-menter-native-205006-deployment",
+      "UnauthRoleName": "amplify-menter-native-205006-unauthRole",
+      "StackName": "amplify-menter-native-205006",
+      "StackId": "arn:aws:cloudformation:ca-central-1:905309214447:stack/amplify-menter-native-205006/70141790-509b-11eb-afef-068d9e498b96",
+      "AmplifyAppId": "d295v3ne4vaxrk"
+    },
+    "categories": {
+      "auth": {
+        "menterc9001f38": {}
+      }
+    }
+  }
+}
